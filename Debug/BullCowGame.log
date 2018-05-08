@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\corbin\documents\visual studio 2017\projects\section_2\bullcowgame\main.cpp(49): warning C4129: ' ': unrecognized character escape sequence
+c:\users\corbin\documents\visual studio 2017\projects\section_2\bullcowgame\main.cpp(50): warning C4129: ' ': unrecognized character escape sequence
+  BullCowGame.vcxproj -> C:\Users\Corbin\Documents\Visual Studio 2017\Projects\Section_2\Debug\BullCowGame.exe
